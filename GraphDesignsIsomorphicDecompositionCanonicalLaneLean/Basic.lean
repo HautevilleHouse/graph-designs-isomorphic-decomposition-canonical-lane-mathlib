@@ -1,0 +1,2 @@
+import GraphDesignsIsomorphicDecompositionCanonicalLaneLean.GateLemmas
+import GraphDesignsIsomorphicDecompositionCanonicalLaneLean.FinalTheorem
